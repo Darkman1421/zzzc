@@ -1,0 +1,15 @@
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\bin\Debug\net6.0\0.4.exe
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\bin\Debug\net6.0\0.4.deps.json
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\bin\Debug\net6.0\0.4.runtimeconfig.json
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\bin\Debug\net6.0\0.4.dll
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\bin\Debug\net6.0\0.4.pdb
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.AssemblyInfo.cs
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.dll
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\refint\0.4.dll
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.pdb
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\0.4.genruntimeconfig.cache
+C:\Users\Артем\Desktop\C#Seminar1'\0.4\obj\Debug\net6.0\ref\0.4.dll
