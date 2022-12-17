@@ -1,13 +1,18 @@
 ﻿// Чет-Нечет
 Console.Write("Введи число: ");
 
-int a = Convert.ToInt32(Console.ReadLine());
+int N = Convert.ToInt32(Console.ReadLine());
 
-if (a % 2 == 0)
+
+for (int i = 2; i <= N; i++)
 {
-    Console.Write("Yes)");
-}
-else
-{
-    Console.Write("NO!");
+    if (i % 2 == 0)
+    {
+        Console.Write(i + "/");
+    }
+    else
+    {
+        Console.Write("Eror");
+    }
+    i = i + 1;
 }
